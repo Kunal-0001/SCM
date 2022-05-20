@@ -14,3 +14,10 @@ body
 		height:330px;		
 		animation:walking_animation 1s steps(12) infinite,move_forward 8s linear infinite;	
 	}
+
+#street
+	{
+		position:relative;
+		top:600px;
+		border-bottom:5px groove green;
+	}
